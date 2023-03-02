@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "fsfe",
   "version": "1.0.0",
   "description": "FSFE",
   "main": "app.js",
@@ -10,5 +10,14 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashgupta1116/FSFE-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akashgupta1116/FSFE-/issues"
+  },
+  "homepage": "https://github.com/akashgupta1116/FSFE-#readme"
 }
